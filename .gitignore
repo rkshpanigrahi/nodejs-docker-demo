@@ -14,13 +14,6 @@ yarn-error.log*
 # Vagrant
 .vagrant/
 
-# Docker
-docker-compose.override.yml
-docker-compose*.yml
-Dockerfile
-
-# Coverage directory used by tools like istanbul
-coverage/
 
 # IDE files
 .vscode/
